@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ben 👋
 
-<!--
-**ben0551/ben0551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a AI & Automaton technie based in Sydney, working across fintech and technical product teams.
 
-Here are some ideas to get you started:
+## 🔧 What I do
+- Business analysis & requirements engineering
+- Data modelling, SQL, and workflow design  
+- Technical troubleshooting (Docker, networking, reverse proxy configs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 What I'm working on
+- Improving my fintech AI toolkits
+- Exploring Southeast Asia travel itineraries  
+- Cooking better stir‑fry dishes 🍜
+
+## 🛠️ Tech & Tools
+- Claude / Copilot
+- Docker  
+- PostgreSQL  
+- Traefik  
+- GitHub Actions  
+- Python & TypeScript (light usage)
+
+## 🌏 Outside of work
+- Backpacking SE Asia  
+- Anime & gaming  
+- Finding good local restaurants in Sydney
