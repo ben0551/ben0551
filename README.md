@@ -1,8 +1,9 @@
 # Hi, I'm Ben 👋
 
-I'm an AI & Automaton technie based in Sydney, working across fintech and technical product teams.
+I'm an AI & Automaton techie based in Sydney, working across fintech and technical product teams.
 
 ## 🔧 What I do
+- Implement AI & Automation workflows and governance
 - Business analysis & requirements engineering
 - Data modelling, SQL, and workflow design  
 - Technical troubleshooting (Docker, networking, reverse proxy configs)
