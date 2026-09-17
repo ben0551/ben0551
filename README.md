@@ -22,5 +22,6 @@ I'm an AI & Automaton technie based in Sydney, working across fintech and techni
 
 ## 🌏 Outside of work
 - Backpacking SE Asia  
-- Anime & gaming  
+- Anime & gaming
+- Building games for the kids
 - Finding good local restaurants in Sydney
