@@ -1,6 +1,6 @@
 # Hi, I'm Ben 👋
 
-I'm a AI & Automaton technie based in Sydney, working across fintech and technical product teams.
+I'm an AI & Automaton technie based in Sydney, working across fintech and technical product teams.
 
 ## 🔧 What I do
 - Business analysis & requirements engineering
