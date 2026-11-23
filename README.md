@@ -36,7 +36,7 @@ I'm an AI & Automation techie based in Sydney, working across fintech and techni
 - **periodic-miner** — JavaScript mining game themed around the periodic table. [▶ Play](https://ben0551.github.io/periodic-miner/)  
 - **bacteria-world** — HTML bacteria based game. [▶ Play](https://ben0551.github.io/bacteria-world/)  
 - **space-wars** — HTML space based game. [▶ Play](https://ben0551.github.io/space-wars/)  
-- **animal-farm** — Farm economy game.
+- **animal-farm** — Farm economy game. [▶ Play](https://ben0551.github.io/animal-farm/)
 
 ### 🏡 Planning & Productivity Tools
 - **planner** — Home Planner with Chores and Shopping (TypeScript).  
