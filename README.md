@@ -24,6 +24,7 @@ I'm an AI & Automation techie based in Sydney, working across fintech and techni
 ## 📦 My GitHub Projects
 
 ### 🎮 Games & Interactive Projects with the Kids
+- **boxes** — The classic school-paper dots-and-boxes game in the browser — online play with friends via invite links. [▶ Play](https://ben0551.github.io/boxes/)  
 - **potato-clicker** — Cosy idle clicker: 38 potato mutations, 5 rebirths, one Kawaii Potato. Vanilla JS, no build step. [▶ Play](https://ben0551.github.io/potato-clicker/)  
 - **the-place-value** — Two-player strategic number-placement browser game. [▶ Play](https://ben0551.github.io/the-place-value/)  
 - **neighbourhood-mogul** — A browser money game for kids: income, expenses, assets, debt and cash flow. [▶ Play](https://ben0551.github.io/neighbourhood-mogul/)  
